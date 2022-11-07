@@ -1,6 +1,6 @@
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.
 
-I'm Suxiong, Front-end developer from **China**, currently living in **Shang Hai**.
+I'm Suxiong, Front-end developer from **China**, currently living in **ShangHai**.
 
 - Find me on [GitHub](https://github.com/YeSuX), [Twitter](https://twitter.com/YeSuX1998), [Linkedin](https://discord.gg/evZrD9h5qW).
 - Mail me at [suxiong1998@gmail](mailto:suxiong1998@gmail.com).
@@ -10,15 +10,16 @@ I'm Suxiong, Front-end developer from **China**, currently living in **Shang Hai
 ---
 ## Things I code with
 
+<b>Languages: </b>
 <p align="left">
-    <b>Languages: </b>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
     <img src="https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E" />
     <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
 </p>
+<br/>
+<b>Frontend: </b>
 <p align="left">
-    <b>Frontend: </b>
     <img src="https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D" />
     <img src="https://img.shields.io/badge/Nuxt.js-00C58E?style=flat-square&logo=nuxtdotjs&logoColor=white" />
     <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
@@ -28,22 +29,21 @@ I'm Suxiong, Front-end developer from **China**, currently living in **Shang Hai
     <img src="https://img.shields.io/badge/Turborepo-EF4444?style=flat-square&logo=Turborepo&logoColor=white" />
     <img src="https://img.shields.io/badge/pnpm-F69220?style=flat-square&logo=pnpm&logoColor=white" />
 </p>
+<b>Backend: </b>
 <p align="left">
-    <b>Backend: </b>
      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
 </p>
+<b>DevOps: </b>
 <p align="left">
-    <b>DevOps: </b>
     <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
     <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
 </p>
+<b>Tools: </b>
 <p align="left">
-    <b>Tools: </b>
     <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white" />
     <img src="https://img.shields.io/badge/VSCode-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white" />
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white" />
 </p>
-
 
 ---
 
