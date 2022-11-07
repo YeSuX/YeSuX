@@ -17,7 +17,6 @@ I'm Suxiong, Front-end developer from **China**, currently living in **ShangHai*
     <img src="https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E" />
     <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
 </p>
-<br/>
 <b>Frontend: </b>
 <p align="left">
     <img src="https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D" />
