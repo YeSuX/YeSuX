@@ -3,9 +3,9 @@
 I'm Suxiong, Front-end developer from **China**, currently living in **ShangHai**.
 
 - Find me on [GitHub](https://github.com/YeSuX), [Twitter](https://twitter.com/YeSuX1998), [Linkedin](https://discord.gg/evZrD9h5qW).
-- Mail me at [suxiong1998@gmail](mailto:suxiong1998@gmail.com).
+- Mail me at [ye@suxiong.me](mailto:ye@suxiong.me).
 - Chat with the community at [my Discord Server](https://discord.gg/evZrD9h5qW).
-- My blog: [suxiong](https://yesux.github.io/)
+- My blog: [suxiong](https://blog.suxiong.me/)
 
 ---
 ## Things I code with
